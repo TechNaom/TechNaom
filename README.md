@@ -32,8 +32,8 @@
 
 | | |
 |---|---|
-| **[rag-projects](https://github.com/TechNaom/rag-projects)** | End-to-end RAG architecture — chunking, retrieval, generation, and evaluation, built from scratch on Python, LangChain, Chroma DB, scikit-learn, and the Claude API. |
-| **[genai-lab](https://github.com/TechNaom/genai-lab)** | Production tooling for GenAI automation — containerized backend/frontend, CI, deployment config, built the way it would actually ship. |
+| **[rag-projects](https://github.com/TechNaom/rag-projects)** | End-to-end RAG architecture — chunking, retrieval, generation, and evaluation, built from scratch on Python, LangChain, Chroma DB, scikit-learn, and Ollama/Groq for generation. |
+| **[genai-lab](https://github.com/TechNaom/genai-lab)** | A personal engineering blog/knowledge base for AI content — Next.js frontend, FastAPI backend, Markdown-based publishing, deployed as containerized services on Render. |
 
 **Core strengths:** GenAI solution architecture &middot; RAG & vector search (ChromaDB, FAISS) &middot; LLMOps & multi-model orchestration (LangChain, LangSmith, Galileo) &middot; agentic automation pipelines &middot; SRE & incident response (RCA, SLO/SLI) &middot; Python engineering &middot; AWS & CI/CD.
 
