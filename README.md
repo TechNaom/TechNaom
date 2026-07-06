@@ -1,5 +1,3 @@
-<img src="naomtech-logo.png" alt="NaomTech" width="180">
-
 # Manohar Papasani
 
 **GenAI Solution Architect &middot; Forward Deployed AI Solutions Engineer &middot; SRE & Automation Lead**
